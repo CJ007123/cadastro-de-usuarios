@@ -1,0 +1,38 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente virtual
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do Python
+*.sqlite3
+*.db
+*.pkl
+
+# Arquivos do Jupyter ou notebook
+.ipynb_checkpoints/
+
+# Backup ou histórico
+*.bak
+*.swp
+
+# JSON temporário (se salvar dados)
+*.json
+
